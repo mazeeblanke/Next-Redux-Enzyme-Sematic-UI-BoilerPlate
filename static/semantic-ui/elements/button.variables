@@ -1,0 +1,38 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+/*-------------------
+      Site Colors
+--------------------*/
+
+/*---  Colors  ---*/
+@blue             : #0074D9;
+@green            : #2ECC40;
+@orange           : #FF851B;
+@pink             : #D9499A;
+@purple           : #A24096;
+@red              : #FF4136;
+@teal             : #39CCCC;
+@yellow           : #FFCB08;
+
+@black            : #212B36;
+@grey             : #CCCCCC;
+@white            : #FFFFFF;
+
+/*---  Light Colors  ---*/
+@lightBlue        : #54C8FF;
+@lightGreen       : #2ECC40;
+@lightOrange      : #FF851B;
+@lightPink        : #FF8EDF;
+@lightPurple      : #CDC6FF;
+@lightRed         : #FF695E;
+@lightTeal        : #6DFFFF;
+@lightYellow      : #FFE21F;
+
+@primaryColor     : @lightPink ;
+@secondaryColor   : @black;
+
+
+@backgroundColor: @lightOrange;
+
+@defaultBorderRadius: 0px;

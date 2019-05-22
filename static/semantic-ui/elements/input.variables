@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@borderRadius : none;
+@borderColor: #c4cdd5;
+@inputPlaceholderColor: #637381;
